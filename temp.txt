@@ -1,0 +1,2 @@
+hello we are writing in a file
+This is a new line
